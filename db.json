@@ -1,25 +1,18 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Change hard driver on workstation 005",
-      "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sam Smith"
+      "message": "Changed network card",
+      "attention": true,
+      "tech": "Dmitriy Tsokolov",
+      "date": "2019-12-20T20:24:00.159Z",
+      "id": 1
     },
     {
       "id": 2,
-      "message": "Workstation 007 not posting",
-      "attention": true,
-      "date": "03-02-2019",
-      "tech": "Jhon Doe"
-    },
-    {
-      "id": 3,
-      "message": "Changed memory on workstation 050",
+      "message": "Log new account",
       "attention": false,
-      "date": "03-02-2019",
-      "tech": "Dmitriy Tsokolov"
+      "tech": "Jhon Doe",
+      "date": "2019-12-20T21:09:23.283Z"
     }
   ],
   "techs": [
@@ -37,11 +30,6 @@
       "id": 3,
       "firstName": "Dmitriy",
       "lastName": "Tsokolov"
-    },
-    {
-      "firstName": "Test",
-      "lastName": "Tech",
-      "id": 4
     }
   ]
 }
